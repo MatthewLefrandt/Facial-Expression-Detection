@@ -44,8 +44,5 @@ We suggest creating a larger, more representative dataset that reflects the dive
 - Steve Marcello Liem
 - Ni Luh Putu Satyaning Pradnya Paramita
 
-## Acknowledgements
-This project was developed for the GEMASTIK XVII National Data Mining Competition.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
